@@ -1,3 +1,3 @@
-# Personal Site
+# My Personal Site
 
-My personal site (in progress).
+Currently in progress
