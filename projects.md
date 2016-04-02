@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### TWITTER CLONE
-Coming soon!
+### [TWITTER CLONE](http://aqueous-citadel-47985.herokuapp.com/)
+A clone of twitter programmed in Ruby on Rails and Bootstrap 
 
 ### [SKETCHPAD](http://htmlpreview.github.io/?https://github.com/lisa-lin/etch-a-sketch/blob/master/index.html)
 Adjustable Etch-A-Sketch-like drawing pad with Javascript and jQuery
