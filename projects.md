@@ -3,6 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+### [JAVASCRIPT CALCULATOR](http://htmlpreview.github.io/?https://github.com/lisa-lin/javascript_calculator/blob/master/index.html)
+A simple on-screen calculator programmed in Javascript and jQuery.
 
 ### [TWITTER CLONE](http://aqueous-citadel-47985.herokuapp.com/)
 A twitter-like site programmed in Ruby on Rails and Bootstrap. Sign up and start tweeting and following users!
